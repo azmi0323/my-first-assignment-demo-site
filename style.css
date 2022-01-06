@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 70px;
 }
 .flexablity{
 display: flex;
@@ -27,8 +27,7 @@ margin-bottom: 100px;
     border-left: 5px solid;
     border-image: linear-gradient(rgb(110, 40, 27), red);
     border-image-slice: 1;
-    margin-left: 10px;
-    
+    padding-left: 20px   
 }
 .first-button{
     text-decoration: none;
@@ -124,4 +123,31 @@ text-align: center;
 background-color: black;
 color: white;
 padding: 10px;
+}
+#final-part{
+    border-left: 6px solid;
+    width: 40%;
+    border-image: linear-gradient(rgb(238, 140, 83), rgb(83, 67, 12));
+    border-image-slice: 1;
+    margin-left: 10px;
+    border-radius: 13px;
+    box-shadow: 10px 10px 50px rgb(245, 188, 188);
+    padding: 40px;
+    
+}
+    
+
+.final-section{
+margin-bottom: 100px;
+display: flex;
+padding-left: 100px;
+}
+.img-code{
+    width: 40%;
+    border-radius: 13px;
+    margin-left: 50px;
+    border-image: linear-gradient(rgb(238, 140, 83), rgb(83, 67, 12));
+    border-image-slice: 1;
+    box-shadow: 10px 10px 50px rgb(245, 188, 188);
+    
 }
