@@ -119,3 +119,9 @@ background-position: right;
 background-image: url(images/dream-bg.png);
 background-repeat: no-repeat;
 }
+footer{
+text-align: center;
+background-color: black;
+color: white;
+padding: 10px;
+}
