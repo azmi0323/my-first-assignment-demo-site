@@ -7,7 +7,7 @@ h1{
 }
 .flexablity{
 display: flex;
-margin-bottom: 150px;
+margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -47,10 +47,12 @@ p{
 #mission{
     font-size: 40px;
     text-align: center;
+    padding-bottom: 25px;
 }
 .mission-vission-section{
     display: flex;
     padding-right:80px ;
+    padding-bottom: 100px;
  
 }
 .mission-pic{
@@ -58,7 +60,7 @@ width: 200px;
 }
 .my-goal{
     
-    width: 30%;
+    width: 32%;
     margin-left: 7%;
     border-radius: 10px;
     box-shadow: 10px 10px 50px rgb(221, 190, 190);
@@ -75,4 +77,45 @@ width: 200px;
 #goal-part{
     padding: 30px;
     background-color: rgb(129, 180, 238);
+}
+
+.half-width-2{
+    width: 50%;
+    margin-left: 5px;
+    padding-left: 70px;
+    padding-top: 40px;
+   
+}
+#img2{
+    width: 120%;
+    
+    
+}
+.flexablity-2{
+    display: flex;
+    padding-bottom: 80px;
+    
+}
+.p-teg-develop-part{
+padding-left: 300px;
+}
+h2{
+    font-size: 35px;
+}
+#img3{
+    width: 85%;
+}
+.final-one{
+display: flex;
+margin-left: 20px;
+padding-left: 40px;
+padding-bottom: 80px;
+
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+}
+.back-img{
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
 }
