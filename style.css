@@ -1,0 +1,78 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.flexablity{
+display: flex;
+margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5px;
+    padding-left: 70px;
+    padding-top: 40px;
+    
+}
+.half-width img{
+    width: 60%;
+    padding-left: 10px;
+}
+.red-color{
+    color: rgb(163, 26, 26);   
+}
+.background-img{
+    border-left: 5px solid;
+    border-image: linear-gradient(rgb(110, 40, 27), red);
+    border-image-slice: 1;
+    margin-left: 10px;
+    
+}
+.first-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(187, 90, 73),rgb(53, 8, 8));
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+p{
+    margin-bottom: 30px;
+}
+.year{
+    color: rgb(185, 45, 45);
+}
+#mission{
+    font-size: 40px;
+    text-align: center;
+}
+.mission-vission-section{
+    display: flex;
+    padding-right:80px ;
+ 
+}
+.mission-pic{
+width: 200px;
+}
+.my-goal{
+    
+    width: 30%;
+    margin-left: 7%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px rgb(221, 190, 190);
+
+}
+#mission-part{
+    padding: 30px;
+    background-color: rgb(195, 222, 223);
+}
+#vission-part{
+    padding: 30px;
+    background-color: rgb(243, 165, 233);
+}
+#goal-part{
+    padding: 30px;
+    background-color: rgb(129, 180, 238);
+}
